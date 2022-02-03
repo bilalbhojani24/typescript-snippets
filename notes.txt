@@ -1,0 +1,16 @@
+1. How to compile ts file?
+=> tsc index.ts (filename.ts)
+
+2. What is tsconfig.json
+=> Use this file to execute or compile using the configuration of this file
+
+3. setup route:-
+1. npm init 
+2. index.ts main file 
+3. include tsConfig.json 
+4. add scripts 
+5. execute
+
+4. What is primitive types in TS?
+=> TS has most of the JavaScript primitive types with the same names. 
+string || number || boolean || null || undefined

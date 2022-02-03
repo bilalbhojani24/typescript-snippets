@@ -1,0 +1,12 @@
+{
+  "name": "bootcamp-project",
+  "version": "1.0.0",
+  "description": "This is typescript bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "execute": "npm run build && node index.js"
+  },
+  "author": "Bilal Bhojani",
+  "license": "ISC"
+}

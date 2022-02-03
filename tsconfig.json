@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "strict": true, // Toggles all the strict rules in typescript
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "removeComments": true,
+    "target": "ES2020"
+  },
+  "files": ["./index.ts"]
+}
